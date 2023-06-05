@@ -1,0 +1,10 @@
+body
+{
+font-size: 14px;
+}
+p
+{
+width: 50px;
+border: 1px solid red;
+white-space: nowrap; /* evite le passage à la ligne */
+}
